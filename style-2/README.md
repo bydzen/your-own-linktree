@@ -4,7 +4,7 @@ Create linktree with file index.html only! No more file or folder. Just index.ht
 ## Screenshot of Style 2
 [Demo Web](https://demo.rayatiga.com/)
 
-<img src="https://rayatiga.com/archive/images/rayatiga-demo_screenshots.png" width="250px" />
+<img src="https://rayatiga.com/archive/images/rayatiga-demo_screenshots.png" width="350px" />
 
 ## Pros
 - Minimalist design
