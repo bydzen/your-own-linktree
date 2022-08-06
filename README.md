@@ -12,3 +12,6 @@ Create linktree with file index.html only! No more file or folder. Just index.ht
 - Responsive css
 - Animation (animate.style)
 - Fast loading
+
+## Cons
+- All pros ;)
